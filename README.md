@@ -29,6 +29,11 @@ Fake business website created for CS20.
 - What was the most challenging part of this assignment?
 
 ## Rubric
+- Site runs online and meets requirements - 50 points
+- Design document – 10 points
+- Questions answered – 5 points
+- Quality of HTML/CSS code - 20 points
+- Creativity/effort – 20 points
 
 ## Acknowledgememnts
 
