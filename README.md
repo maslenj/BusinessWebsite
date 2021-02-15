@@ -35,7 +35,7 @@ Fake business website created for CS20.
 - Quality of HTML/CSS code - 20 points
 - Creativity/effort – 20 points
 
-## Acknowledgememnts
+## Acknowledgements
 
 - Site runs online and meets requirements - 50 points
 - Design document – 10 points
