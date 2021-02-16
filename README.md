@@ -9,8 +9,8 @@ Fake business website created for CS20.
 - Content must be "real" and realistic. Lorum Ipsum text is not acceptable.  
 - You must have at least 15 css style rules
 - Include an external stylesheet and an internal stylesheet
-- Include at least three images and three background images. 
-- You must include at least two fixed elements to make the site look consistent - for example: header, navigation and footer 
+- Include at least one image and one background image. 
+- You must include at least three fixed elements to make the site look consistent - for example: header, navigation and footer 
 - The site must be responsive and pass a mobile friendly test: https://search.google.com/test/mobile-friendly 
 - You may choose github hosting or cpanel hosting
 - Images must NOT have any watermarks on them
