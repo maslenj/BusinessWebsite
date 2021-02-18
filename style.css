@@ -1,5 +1,7 @@
 body, html {
     font-family:sans-serif;
+    display:block;
+    background-color: #B8F4FF
 }
 
 h1 {
