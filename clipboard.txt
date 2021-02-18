@@ -1,0 +1,14 @@
+    <div class='picture'>
+        <img src="Pictures/drinks.jpg" alt="Picture of bottles at bar"
+             height=300px;>
+    </div>
+    
+    <div class='picture'>
+        <img src="Pictures/sandwich.jpg" alt="Picture of sandwich"
+             height=300px>
+    </div>
+    
+    <div class='picture'>
+        <img src="Pictures/fries.jpg" alt="Picture of french fries" 
+             height=300px>
+    </div>
