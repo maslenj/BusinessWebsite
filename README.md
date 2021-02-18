@@ -17,10 +17,10 @@ Fake business website created for CS20.
 
 ## About
 
-- Name of business: Some restaurant
-- What business does: Makes and sells food
-- Target demographic: Hungry people
-- How the website helps the business: Spreads awareness, allows people to order online maybe
+- Name of business: Super scrumptious Sandwiches
+- What business does: Makes sandwiches
+- Target demographic: Sandwich lovers
+- How the website helps the business: Spreads awareness, allows people to order online maybe, menu
 - Sketch: img
 
 ## Questions

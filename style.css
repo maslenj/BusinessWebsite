@@ -72,3 +72,10 @@ body {
 }
 
 /* END FOOTER */
+body, html {
+    font-family:sans-serif;
+}
+
+h1 {
+    text-align:center; color:#0000FF; font-size:50px;
+}
