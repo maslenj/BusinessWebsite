@@ -43,5 +43,14 @@ Fake business website created for CS20.
 - Quality of HTML/CSS code - 20 points
 - Creativity/effort – 20 points
 
+## Tasks
+
+- Header/Navbar
+- Footer
+- All pages
+    - Main
+    - Menu
+    - 
+
 ## Page Contributors
 Jimmy Maslen and Theseus Lim
