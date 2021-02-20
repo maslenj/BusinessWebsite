@@ -124,11 +124,6 @@ li a:hover:not(.active) {
 
 /* END SERVICES */
 
-body {
-    background-color:#ccc;
-    background-image: url("./Pictures/restaurant3.jpg");
-}
-
 /* FOOTER */
 #FOOTER {
     width: 100%;
@@ -156,10 +151,14 @@ body {
 
 /* END FOOTER */
 
-body, html {
+body {
     font-family:sans-serif;
     display:block;
-    /* background-color: #B8F4FF */
+    background-color: #B8F4FF;
+
+    /* Also can do background image if we want */
+    /* background-color:#ccc;
+    background-image: url("./Pictures/restaurant3.jpg"); */
 }
 
 h1 {
