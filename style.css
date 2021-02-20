@@ -82,11 +82,12 @@ ul {
     background-color: #333;
 }
 
-li {
+.navbar-element {
     float: left;
+    background-color: #333;
 }
 
-li a {
+.navbar-element a {
     display: block;
     color: white;
     text-align: center;
@@ -94,7 +95,7 @@ li a {
     text-decoration: none;
 }
 
-li a:hover:not(.active) {
+.navbar-element a:hover:not(.active) {
     background-color: #878500;
 }
 
@@ -168,7 +169,7 @@ h1 {
 /* MEDIA QUERIES */
 
 /* Large Devices */
-@media only screen and (min-width: 650px) {
+@media (min-width: 720px) {
     #MAIN-IMAGE {
         width: 600px;
     }
@@ -178,7 +179,7 @@ h1 {
     }
 }
 
-@media only screen and (max-width: 650px) {
+@media (max-width: 720px) {
     #MAIN-IMAGE {
         width: 90%;
     }
@@ -189,5 +190,17 @@ h1 {
     
     .main-panel {
         width: 100%;
+    }
+
+    /* footer split into lines to make mobile friendly */
+    .footer-panel {
+        width: 100%;
+        display: block;
+        background-color: rgb(175, 238, 238, 0.8);
+    }
+
+    /* */
+    .navbar-element {
+        float: none;
     }
 }
