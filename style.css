@@ -121,6 +121,7 @@ ul {
 .service-div {
     margin-left: 5%;
     margin-right: 5%;
+    overflow: auto;
 }
 
 /* END SERVICES */
@@ -129,13 +130,13 @@ ul {
 #FOOTER {
     width: 100%;
     background-color: rgb(175, 238, 238, 0.8);
-    height: 100px;
+    overflow:auto;
 }
 
 .footer-panel {
     text-align: center;
     display: inline-block;
-    width: 30%;
+    width: 33%;
     height: 100%;
 }
 
@@ -179,6 +180,14 @@ h1 {
     }
 }
 
+@media (max-width: 900px) {
+    /* footer split into lines to make mobile friendly */
+    .footer-panel {
+        width: 100%;
+        display: block;
+    }
+}
+
 @media (max-width: 720px) {
     #MAIN-IMAGE {
         width: 90%;
@@ -192,15 +201,12 @@ h1 {
         width: 100%;
     }
 
-    /* footer split into lines to make mobile friendly */
-    .footer-panel {
-        width: 100%;
-        display: block;
-        background-color: rgb(175, 238, 238, 0.8);
-    }
-
-    /* */
+    /* Make mobile friendly */
     .navbar-element {
         float: none;
+    }
+
+    h1 {
+        font-size: 30px;
     }
 }
